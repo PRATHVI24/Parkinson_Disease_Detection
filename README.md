@@ -35,3 +35,28 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
+```
+## Usage
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/PRATHVI24/Parkinson_Disease_Detection.git
+cd Parkinson_Disease_Detection
+```
+## Run the Jupyter Notebook:
+Open the Jupyter Notebook file in your preferred environment to explore the data analysis, model training, and evaluation steps.
+
+## Acknowledgements
+The dataset used in this project is sourced from the UCI Machine Learning Repository.
+
+For more details, refer to the original dataset: UCI Machine Learning Repository: Parkinsons Data Set
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contributing
+Contributions are welcome. Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## Contact
+For any inquiries or issues, please open an issue in this repository.
