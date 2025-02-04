@@ -1,5 +1,11 @@
 # Parkinson_Disease_Detection
 This project implements a machine learning model to detect Parkinson's Disease using biomedical voice measurements. The goal is to classify individuals as healthy or having Parkinson's Disease based on specific vocal attributes.
+The project performs the following tasks:
+1️⃣ Data Collection
+2️⃣ Data Preprocessing
+3️⃣ Exploratory Data Analysis
+4️⃣ Dataset Balancing & Scaling
+5️⃣ Machine Learning Models Training & Evaluation
 
 ## Dataset
 
